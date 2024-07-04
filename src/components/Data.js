@@ -59,7 +59,7 @@ const Data = () => {
             Software Engineer/ML Expert
         </h3>
         <p className="home__description">
-            I'm a software engineer and also works on ml porjects
+            Want to convert your dream sites into reality with added AI features: send me a hello!
         </p>
 
         <a href="#contact" className="button button--flex">
