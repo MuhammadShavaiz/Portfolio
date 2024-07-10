@@ -17,7 +17,8 @@ const About = () => {
                     <Info/>
 
                     <p className="about__description">
-                        this is my description
+                    I'm a Computer Science student at NUST University with over 3 years of experience in software development and AI through projects and internships.
+                    I am driven to make a meaningful impact in the tech industry and am always eager to learn and take on new challenges. I am confident that my skills and passion make me a valuable asset to any team.
                     </p>
                     <a download = ""href={cv} className="button button--flex">
                         Download CV

@@ -10,7 +10,8 @@ const Data = () => {
             Software Engineer/ML Expert
         </h3>
         <p className="home__description">
-            Want to convert your dream sites into reality with added AI features: send me a hello!
+        Welcome to my portfolio! I’m passionate about AI and Software Engineering.
+         I create web applications and AI solutions to solve real-world problems. Explore my projects to see my work.
         </p>
 
         <a href="#contact" className="button button--flex">
