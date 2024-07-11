@@ -4,7 +4,7 @@ const MachineLearning = () => {
   return (
     <div className="skills__content">
     <h3 className="skills__title">
-        Machine Learning Expert
+        Machine Learning
     </h3>
     <div className="skills__box">
       <div className="skills__group">
