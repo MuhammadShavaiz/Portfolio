@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.47d09fbb.css",
+    "main.js": "/Portfolio/static/js/main.a45e2947.js",
+    "static/js/453.7d41a4c1.chunk.js": "/Portfolio/static/js/453.7d41a4c1.chunk.js",
+    "static/media/propic.jpeg": "/Portfolio/static/media/propic.4807d2672ab38555d339.jpeg",
+    "static/media/Muhammad Shavaiz Resume.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume.4caa918d55134d0de323.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.47d09fbb.css.map": "/Portfolio/static/css/main.47d09fbb.css.map",
+    "main.a45e2947.js.map": "/Portfolio/static/js/main.a45e2947.js.map",
+    "453.7d41a4c1.chunk.js.map": "/Portfolio/static/js/453.7d41a4c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d09fbb.css",
+    "static/js/main.a45e2947.js"
+  ]
+}
