@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.47d09fbb.css",
-    "main.js": "/Portfolio/static/js/main.a45e2947.js",
+    "main.css": "/Portfolio/static/css/main.2f2a5fc1.css",
+    "main.js": "/Portfolio/static/js/main.53733e47.js",
     "static/js/453.7d41a4c1.chunk.js": "/Portfolio/static/js/453.7d41a4c1.chunk.js",
     "static/media/propic.jpeg": "/Portfolio/static/media/propic.4807d2672ab38555d339.jpeg",
     "static/media/Muhammad Shavaiz Resume.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume.4caa918d55134d0de323.pdf",
+    "static/media/work2.jpg": "/Portfolio/static/media/work2.3cbaeb7eae3a0c7996fe.jpg",
+    "static/media/work3.jpg": "/Portfolio/static/media/work3.d35476281cad3056a0b7.jpg",
+    "static/media/work5.jpg": "/Portfolio/static/media/work5.64f4e94cbdeaf3743d62.jpg",
+    "static/media/work4.jpg": "/Portfolio/static/media/work4.73c5ac4760d74413955c.jpg",
+    "static/media/work1.jpg": "/Portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.47d09fbb.css.map": "/Portfolio/static/css/main.47d09fbb.css.map",
-    "main.a45e2947.js.map": "/Portfolio/static/js/main.a45e2947.js.map",
+    "main.2f2a5fc1.css.map": "/Portfolio/static/css/main.2f2a5fc1.css.map",
+    "main.53733e47.js.map": "/Portfolio/static/js/main.53733e47.js.map",
     "453.7d41a4c1.chunk.js.map": "/Portfolio/static/js/453.7d41a4c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47d09fbb.css",
-    "static/js/main.a45e2947.js"
+    "static/css/main.2f2a5fc1.css",
+    "static/js/main.53733e47.js"
   ]
 }
