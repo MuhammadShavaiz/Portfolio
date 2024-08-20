@@ -1,7 +1,6 @@
 import React from 'react'
 import './Skills.css'
 import Frontend from './Frontend'
-import Backend from './Backend'
 import MachineLearning from './MachineLearning'
 
 const Skills = () => {
