@@ -5,7 +5,7 @@ import Work4 from '../../assets/work4.jpg'
 import Work5 from '../../assets/work5.jpg'
 import Work6 from '../../assets/Work6.jpg'
 import Work7 from '../../assets/work7.jpg'
-import Work7 from '../../assets/work8.jpg'
+import Work8 from '../../assets/work8.jpg'
 
 export const projectsData = [
     {
