@@ -40,8 +40,24 @@ const MachineLearning = () => {
               <i className="bx bx-badge-check"></i>
           
          <div>
-         <h3 className="skills__name">Keras</h3>
+         <h3 className="skills__name">Pandas</h3>
+         <span className="skills__level">Intermediate</span>
+         </div>
+          </div>
+          <div className="skills__data">
+              <i className="bx bx-badge-check"></i>
+          
+         <div>
+         <h3 className="skills__name">Spacy/NLTK</h3>
          <span className="skills__level">Beginner</span>
+         </div>
+          </div>
+          <div className="skills__data">
+              <i className="bx bx-badge-check"></i>
+          
+         <div>
+         <h3 className="skills__name">Hugging Face Trfrms</h3>
+         <span className="skills__level">Intermediate</span>
          </div>
           </div>
       </div>
