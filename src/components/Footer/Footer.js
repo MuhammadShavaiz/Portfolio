@@ -29,7 +29,7 @@ const Footer = () => {
             </div>
 
             <span className='footer__copy'>
-                &#169; © Muhammad Shavaiz 2024. All rights reserved.
+            &#169; Muhammad Shavaiz 2024.<br/>All rights reserved.
             </span>
         </div>
     </footer>

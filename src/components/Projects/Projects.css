@@ -17,6 +17,7 @@
 
 .work__item:hover{
     background-color: var(--title-color-darkb);
+    color: var(--body-color);
 }
 
 .work__container{
@@ -64,7 +65,7 @@
 
 .active-work{
     background-color: var(--title-color-darkb);
-    color: var(--text-color);
+    color: var(--body-color);
 }
 
 /* BREAKPOINTS */

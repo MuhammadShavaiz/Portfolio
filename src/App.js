@@ -12,17 +12,17 @@ import Projects from './components/Projects/Projects';
 function App() {
   return (
     <>
-    <Header/>
     <main className='main'>
+    <Header/>
       <Home/>
       <About/>
       <Skills/>
       <Qualification/>
       <Projects/>
-      <Contact/>
-    </main>
+      <Contact/> 
     <Footer/>
     <Scroll/>
+    </main>
     </>
   );
 }

@@ -1,3 +1,4 @@
+
 /* GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
@@ -8,12 +9,12 @@
   /* COLORS */
   --hue: 0;
   --sat: 0%;
-  --title-color: rgb(41, 37, 37);
-  --title-color-dark:rgb(0, 0, 0);
-  --title-color-darkb:rgb(101, 255, 242);
-  --text-color:black;
-  --body-color: rgb(231, 247, 244);
-  --container-color: rgb(231, 247, 244);
+  --title-color: rgb(245, 238, 138);
+  --title-color-dark:rgb(197, 187, 50);
+  --title-color-darkb:rgb(218, 224, 131);
+  --text-color:rgb(218, 224, 131);
+  --body-color: rgb(17, 18, 35);
+  --container-color: rgb(248, 225, 181);
 
   /* FONT and TYPOGRAPHY */
   --body-font: "Poppins", sans-serif;
@@ -120,6 +121,26 @@ img {
   font-size: var(--h1-font-size);
   color: var(--title-color);
 }
+.main {
+  background-image: url('./assets/background-portfolio.jpg'); /* Replace with your background image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; /* Ensure the background covers the entire viewport */
+  width: 100%;
+  position: relative;
+}
+
+/* Make all inner divs transparent */
+.main div {
+  background-color: transparent; /* Ensure the div backgrounds are transparent */
+   /* Optional: Adjust the transparency of the inner content */
+   border-color: white;
+}
+
+/* Ensure the container doesn't change layout for transparency */
+.container {
+  background-color: transparent;
+}
 
 .section__subtitle {
   display: block;
@@ -146,8 +167,8 @@ img {
 /* BUTTONS */
 .button {
   display: inline-block;
-  background-color: rgb(180, 199, 196);
-  color: var(--text-color);
+  background-color: rgb(248, 225, 181);
+  color: var(--body-color);
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
