@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.8fd4d29d.css",
-    "main.js": "/Portfolio/static/js/main.280dcdc8.js",
+    "main.js": "/Portfolio/static/js/main.2c9403a3.js",
     "static/js/453.7d41a4c1.chunk.js": "/Portfolio/static/js/453.7d41a4c1.chunk.js",
     "static/media/profilepicture1.jpg": "/Portfolio/static/media/profilepicture1.7f696b0186b947c237b5.jpg",
     "static/media/background-portfolio.jpg": "/Portfolio/static/media/background-portfolio.36ab5aa83f9871a0297d.jpg",
     "static/media/propic.jpeg": "/Portfolio/static/media/propic.4807d2672ab38555d339.jpeg",
     "static/media/Muhammad Shavaiz Resume AI.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume AI.6e5d16bf7bdb0ae2330a.pdf",
     "static/media/work8.jpg": "/Portfolio/static/media/work8.ec239de2cdbc852caad7.jpg",
-    "static/media/work1.jpg": "/Portfolio/static/media/work1.20333b9d4e475ca732b2.jpg",
-    "static/media/work2.jpg": "/Portfolio/static/media/work2.3cbaeb7eae3a0c7996fe.jpg",
+    "static/media/work2.jpg": "/Portfolio/static/media/work2.7399393133118bd04246.jpg",
+    "static/media/work1.jpg": "/Portfolio/static/media/work1.de6e4252bd4e3eb52a78.jpg",
     "static/media/work3.jpg": "/Portfolio/static/media/work3.d35476281cad3056a0b7.jpg",
     "static/media/work5.jpg": "/Portfolio/static/media/work5.64f4e94cbdeaf3743d62.jpg",
     "static/media/work4.jpg": "/Portfolio/static/media/work4.73c5ac4760d74413955c.jpg",
@@ -17,11 +17,11 @@
     "static/media/Work6.jpg": "/Portfolio/static/media/Work6.b322439876a80ad35862.jpg",
     "index.html": "/Portfolio/index.html",
     "main.8fd4d29d.css.map": "/Portfolio/static/css/main.8fd4d29d.css.map",
-    "main.280dcdc8.js.map": "/Portfolio/static/js/main.280dcdc8.js.map",
+    "main.2c9403a3.js.map": "/Portfolio/static/js/main.2c9403a3.js.map",
     "453.7d41a4c1.chunk.js.map": "/Portfolio/static/js/453.7d41a4c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd4d29d.css",
-    "static/js/main.280dcdc8.js"
+    "static/js/main.2c9403a3.js"
   ]
 }
