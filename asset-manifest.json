@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.01c43ad8.css",
-    "main.js": "/Portfolio/static/js/main.6950f65e.js",
+    "main.css": "/Portfolio/static/css/main.b04b5451.css",
+    "main.js": "/Portfolio/static/js/main.d56bfafc.js",
     "static/js/453.7d41a4c1.chunk.js": "/Portfolio/static/js/453.7d41a4c1.chunk.js",
     "static/media/profilepicture1.jpg": "/Portfolio/static/media/profilepicture1.7f696b0186b947c237b5.jpg",
     "static/media/background-portfolio.jpg": "/Portfolio/static/media/background-portfolio.36ab5aa83f9871a0297d.jpg",
     "static/media/propic.jpeg": "/Portfolio/static/media/propic.4807d2672ab38555d339.jpeg",
-    "static/media/Muhammad Shavaiz Resume.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume.4caa918d55134d0de323.pdf",
+    "static/media/Muhammad Shavaiz Resume AI.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume AI.6e5d16bf7bdb0ae2330a.pdf",
     "static/media/work8.jpg": "/Portfolio/static/media/work8.ec239de2cdbc852caad7.jpg",
     "static/media/work1.jpg": "/Portfolio/static/media/work1.20333b9d4e475ca732b2.jpg",
     "static/media/work2.jpg": "/Portfolio/static/media/work2.3cbaeb7eae3a0c7996fe.jpg",
@@ -16,12 +16,12 @@
     "static/media/work7.jpg": "/Portfolio/static/media/work7.415db6befea03c16b014.jpg",
     "static/media/Work6.jpg": "/Portfolio/static/media/Work6.b322439876a80ad35862.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.01c43ad8.css.map": "/Portfolio/static/css/main.01c43ad8.css.map",
-    "main.6950f65e.js.map": "/Portfolio/static/js/main.6950f65e.js.map",
+    "main.b04b5451.css.map": "/Portfolio/static/css/main.b04b5451.css.map",
+    "main.d56bfafc.js.map": "/Portfolio/static/js/main.d56bfafc.js.map",
     "453.7d41a4c1.chunk.js.map": "/Portfolio/static/js/453.7d41a4c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01c43ad8.css",
-    "static/js/main.6950f65e.js"
+    "static/css/main.b04b5451.css",
+    "static/js/main.d56bfafc.js"
   ]
 }
