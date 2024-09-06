@@ -25,12 +25,12 @@
     text-align: center;
 }
 
-.contact__card-icon {
-    font-size: 2rem !important;
-    color: var(--title-color) !important;
-    margin-bottom: var(--mb-0-25) !important;
+.contact__card-icon{
+    font-size: 2rem;
+    color: var(--title-color);
+    margin-bottom: var(--mb-0-25);
+    
 }
-
 
 .contact__card-title,
 .contact__card-data{
