@@ -187,6 +187,9 @@ img {
   align-items: center;
   cursor: url("./assets/hand.png"),auto;
 }
+a{
+  cursor: url("./assets/hand.png"),auto;
+}
 
 /* BREAKPOINTS */
 /* for large devices */

@@ -7,7 +7,6 @@
 }
 
 .work__item{
-    cursor: url("../../assets/hand.png"),auto;
     color: var(--title-color);
     padding: 0.25rem 0.75rem;
     font-weight: var(--font-medium);

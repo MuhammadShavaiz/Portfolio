@@ -2,8 +2,10 @@ import React from 'react'
 
 const WorkItems = ({item}) => {
   return (
+    <a href={item.link} target="_blank" rel="noopener noreferrer">
       <div className="work__card" key={item.id}>
         <img src={item.image} alt="" className="work__img" />
+        
         <h3 className="work__title">
             {item.title}
         </h3>
@@ -12,6 +14,7 @@ const WorkItems = ({item}) => {
             "></i>
         </a>*/}
       </div>
+      </a>
   )
 }
 
