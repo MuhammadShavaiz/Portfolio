@@ -19,7 +19,7 @@ const Info = () => {
                 Experience
             </h3>
             <span className="about__subtitle">
-                3 Years
+                2 Years
             </span>
         </div>
         <div className="about__box">
@@ -28,7 +28,7 @@ const Info = () => {
                 Work
             </h3>
             <span className="about__subtitle">
-            Completed 12+ Projects
+            Completed 20+ Projects
             </span>
         </div>
       </div>

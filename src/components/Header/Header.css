@@ -19,6 +19,7 @@
 .nav__toggle {
      color: var(--title-color);
      font-weight: var(--font-medium);
+     cursor: url("../../assets/hand.png"),auto;
 }
 
 .nav__list {
@@ -34,6 +35,7 @@
     color: var(--title-color);
     font-weight: var(--font-medium);
     transition: .3s;
+    cursor: url("../../assets/hand.png"),auto;
 }
 .nav__icon,
 .nav__close,

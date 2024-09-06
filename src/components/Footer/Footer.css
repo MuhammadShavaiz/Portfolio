@@ -10,6 +10,9 @@
 .footer__link{
     color: var(--title-color);
 }
+.footer__link{
+    cursor: url("../../assets/hand.png"),auto;
+}
 
 .footer__title{
     text-align: center;

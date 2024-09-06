@@ -7,7 +7,7 @@
 }
 
 .work__item{
-    cursor: pointer;
+    cursor: url("../../assets/hand.png"),auto;
     color: var(--title-color);
     padding: 0.25rem 0.75rem;
     font-weight: var(--font-medium);
@@ -27,12 +27,20 @@
 }
 
 
-.work__card{
+.work__card {
     background-color: rgb(7, 31, 51) !important;
-    border: 1px solid rgba(0,0,0,0.1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 1.25rem;
     border-radius: 1rem;
+    transition: transform 0.6s ease, box-shadow 0.3s ease; /* Smooth animation for size and shadow */
 }
+
+.work__card:hover {
+    transform: scale(1.15); /* Grows 5% when hovered */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Add shadow effect for depth */
+    background-color: rgb(4, 40, 70)  !important;
+}
+
 .work__img{
     width: 295px;
     border-radius: 1rem;

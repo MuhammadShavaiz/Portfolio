@@ -17,6 +17,7 @@
 .home__social-icon{
     font-size: 1.65rem;
     color: var(--title-color);
+    cursor: url("../../assets/hand.png"),auto;
 }
 .home__social-icon:hover{
     color: var(--title-color-dark);

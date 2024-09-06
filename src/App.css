@@ -84,8 +84,8 @@ textarea {
 body {
   background-color: var(--body-color);
   color: var(--text-color);
+  cursor: url('./assets/cursor.png'), auto;
 }
-
 h1,
 h2,
 h3 {
@@ -185,6 +185,7 @@ img {
 .button--flex {
   display: inline-flex;
   align-items: center;
+  cursor: url("./assets/hand.png"),auto;
 }
 
 /* BREAKPOINTS */

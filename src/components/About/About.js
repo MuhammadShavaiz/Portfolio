@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css' 
 import Info from './Info'
 import profileImage from '../../assets/propic.jpeg';
-import cv from '../../assets/Muhammad Shavaiz Resume.pdf'
+import cv from '../../assets/Muhammad Shavaiz Resume AI.pdf'
 
 const About = () => {
   return (
@@ -17,8 +17,11 @@ const About = () => {
                     <Info/>
 
                     <p className="about__description">
-                    I'm a Computer Science student at NUST University with over 3 years of experience in software development and AI through projects and internships.
-                    I am driven to make a meaningful impact in the tech industry and am always eager to learn and take on new challenges. I am confident that my skills and passion make me a valuable asset to any team.
+                    Hi! I’m a Computer Science student at NUST University with 2 years of experience in software development and AI. I’ve worked on various projects and internships that have sharpened my skills and fueled my passion for tech.
+
+When I’m not coding, you’ll find me playing football or swimming. I’m also a big FC Barcelona fan. Movies and series are my go-to for relaxation, and I love hanging out with friends and family, exploring new places, and enjoying good food.
+
+If you’re looking for someone who’s enthusiastic, dedicated, and knows how to balance work and leisure, let’s connect!
                     </p>
                     <a download = ""href={cv} className="button button--flex">
                         Download CV
