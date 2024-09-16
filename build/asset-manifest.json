@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f2ce2591.css",
-    "main.js": "/Portfolio/static/js/main.fae77c9b.js",
+    "main.css": "/Portfolio/static/css/main.8a1035a2.css",
+    "main.js": "/Portfolio/static/js/main.fe20b38f.js",
     "static/js/453.7d41a4c1.chunk.js": "/Portfolio/static/js/453.7d41a4c1.chunk.js",
+    "static/media/profilepicture1.jpg": "/Portfolio/static/media/profilepicture1.7f696b0186b947c237b5.jpg",
+    "static/media/background-portfolio.jpg": "/Portfolio/static/media/background-portfolio.36ab5aa83f9871a0297d.jpg",
     "static/media/propic.jpeg": "/Portfolio/static/media/propic.4807d2672ab38555d339.jpeg",
-    "static/media/Muhammad Shavaiz Resume.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume.4caa918d55134d0de323.pdf",
-    "static/media/work2.jpg": "/Portfolio/static/media/work2.3cbaeb7eae3a0c7996fe.jpg",
+    "static/media/Muhammad Shavaiz Resume1.pdf": "/Portfolio/static/media/Muhammad Shavaiz Resume1.deaeeddac2fb3ebb6e14.pdf",
+    "static/media/work8.jpg": "/Portfolio/static/media/work8.ec239de2cdbc852caad7.jpg",
+    "static/media/work2.jpg": "/Portfolio/static/media/work2.7399393133118bd04246.jpg",
+    "static/media/work1.jpg": "/Portfolio/static/media/work1.de6e4252bd4e3eb52a78.jpg",
     "static/media/work3.jpg": "/Portfolio/static/media/work3.d35476281cad3056a0b7.jpg",
     "static/media/work5.jpg": "/Portfolio/static/media/work5.64f4e94cbdeaf3743d62.jpg",
     "static/media/work4.jpg": "/Portfolio/static/media/work4.73c5ac4760d74413955c.jpg",
-    "static/media/work1.jpg": "/Portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work7.jpg": "/Portfolio/static/media/work7.415db6befea03c16b014.jpg",
+    "static/media/Work6.jpg": "/Portfolio/static/media/Work6.b322439876a80ad35862.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.f2ce2591.css.map": "/Portfolio/static/css/main.f2ce2591.css.map",
-    "main.fae77c9b.js.map": "/Portfolio/static/js/main.fae77c9b.js.map",
+    "main.8a1035a2.css.map": "/Portfolio/static/css/main.8a1035a2.css.map",
+    "main.fe20b38f.js.map": "/Portfolio/static/js/main.fe20b38f.js.map",
     "453.7d41a4c1.chunk.js.map": "/Portfolio/static/js/453.7d41a4c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2ce2591.css",
-    "static/js/main.fae77c9b.js"
+    "static/css/main.8a1035a2.css",
+    "static/js/main.fe20b38f.js"
   ]
 }
